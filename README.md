@@ -6,11 +6,11 @@ A Nice Guy that likes making things.
 
 ## Contact
 
-[Twitter, DMs open!](https://twitter.com/pbassham)
+- [Twitter, DMs open!](https://twitter.com/pbassham)
 
-[Linkedin](https://linkedin.com/in/pbassham/)
+- [Linkedin](https://linkedin.com/in/pbassham/)
 
-[philbassham.com](https://www.philbassham.com)
+- [philbassham.com](https://www.philbassham.com)
 
 <!---
 pbassham/pbassham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
